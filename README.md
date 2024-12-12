@@ -1,5 +1,9 @@
 # GreatLakes-Gauges-Runoff
 
+## Introduction
+This project aims to do an analysis of runoff in the Great Lakes Region in order to predict future patterns in water levels in the lakes. For more information read the final write up of this project.
+
+## How to Use
 Use these files for analyzing runoff from gauges in the US from USGS or from the Canada water office. 
 
 The list of the natural gauges in the Great Lakes Region as used for this project can be found in gauge_info.xls
